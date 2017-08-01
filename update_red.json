@@ -1,7 +1,9 @@
 {
-  "version": 464,
+  "version": 465,
   "releaseNotes": [
-    "Это первая версия приложения"
+    "Суперэкспресс, заключите пари и удача вам обязательно улыбнется",
+    "Возможность регистрации через Qiwi",
+    "Многочисленные мелкие правки и доработки"
   ],
-  "url": "https://static.bkfon-resource.ru/download/mobile/android/fon-4.6.4r.apk"
+  "url": "https://static.bkfon-resource.ru/download/mobile/android/fon-4.6.5r.apk"
 }
