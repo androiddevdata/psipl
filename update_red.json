@@ -1,9 +1,8 @@
 {
-  "version": 465,
+  "version": 466,
   "releaseNotes": [
-    "Суперэкспресс, заключите пари и удача вам обязательно улыбнется",
-    "Возможность регистрации через Qiwi",
-    "Многочисленные мелкие правки и доработки"
+    "Исправлена ошибка, из-за которой останавливалось воспроизведение видеотрансляций",
+    "Мелкие правки и доработки"
   ],
-  "url": "https://static.bkfon-resource.ru/download/mobile/android/fon-4.6.5r.apk"
+  "url": "https://static.bkfon-resource.ru/download/mobile/android/fon-4.6.6r.apk"
 }
