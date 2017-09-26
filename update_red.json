@@ -1,8 +1,8 @@
 {
-  "version": 466,
+  "version": 468,
   "releaseNotes": [
-    "Исправлена ошибка, из-за которой останавливалось воспроизведение видеотрансляций",
+    "Добавлена возможность продажи пари",
     "Мелкие правки и доработки"
   ],
-  "url": "https://static.bkfon-resource.ru/download/mobile/android/fon-4.6.6r.apk"
+  "url": "https://origin.bkfon-resource.ru/ContentRed/fon-4.6.8r.apk"
 }
