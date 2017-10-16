@@ -1,8 +1,8 @@
 {
-  "version": 468,
+  "version": 470,
   "releaseNotes": [
-    "Добавлена возможность продажи пари",
+    "Улучшена стабильность связи с сервером",
     "Мелкие правки и доработки"
   ],
-  "url": "https://origin.bkfon-resource.ru/ContentRed/fon-4.6.8r.apk"
+  "url": "https://origin.bkfon-resource.ru/ContentRed/fon-4.7.0r.apk"
 }
