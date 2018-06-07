@@ -1,7 +1,7 @@
 {
-    "url": "http://23.111.18.89/mobile/android/fonbet-4.6.9.apk",
+    "version": 469,
     "releaseNotes": [
         "Исправлен ряд ошибок и улучшена производительность приложения"
     ],
-    "version": 469
+    "url": "http://23.111.18.89/mobile/android/fonbet-4.6.9.apk"
 }
