@@ -1,8 +1,10 @@
 {
-  "version": 512,
+  "version": 523,
   "releaseNotes": [
-    "Brand new Fonbet App released!",
-    "We made a big update, to make it more clean and convinient."
+    "Redisign of cart and tote screens",
+    "Now you can withdraw funds directly from drawer menu",
+    "Changed indication on history screen (now green and red)",
+    "Varoius minor fixes and improvements"
   ],
-  "url": "https://origin.cy-resources.com/ContentCyprus/android/fonbet-5.1.2c.apk"
+  "url": "https://origin.cy-resources.com/ContentCyprus/android/fonbet-5.2.3c.apk"
 }
